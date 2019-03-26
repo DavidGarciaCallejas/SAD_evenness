@@ -1,6 +1,7 @@
 
 require(tidyverse)
 require(robustbase)
+source("hill_diversity.R")
 
 #####################
 # calculate hill evenness (and other metrics) for every SAD obtained with the script "SAD_sugihara_abundances_model"

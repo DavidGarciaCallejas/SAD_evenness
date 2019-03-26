@@ -15,5 +15,6 @@ Evenness metrics (and potentiall others) is calculated with
 
 Lastly, metrics are plotted and analyzed with the scripts
 
-**SAD_sugihara_metrics_plots.R**
+**SAD_sugihara_metrics_plots.R**  
+
 **SAD_sugihara_metrics_regressions.R**

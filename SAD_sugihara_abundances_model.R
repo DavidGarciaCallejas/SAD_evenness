@@ -3,6 +3,11 @@
 # factors are species richness, connectance, and the niche apportionment scheme
 
 #####################
+require(tidyverse)
+require(nicheApport)
+require(cheddar)
+
+#####################
 # auxiliary functions
 
 # the niche model, own version

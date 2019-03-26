@@ -1,3 +1,5 @@
+require(tidyverse)
+
 #####################
 # calculate rank-abundance plots for SADs obtained with the script "SAD_sugihara_abundances_model"
 #####################
